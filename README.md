@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Insung-J%20%20&height=200&fontSize=90&fontColor=ffffff)
-
+<center>
 ### Welcom **My Space!** 👋👋
 
 Hi there.
@@ -24,6 +24,8 @@ I'm Insung-J, a developer from Republic of korea
 - 🔭 I’m currently working on Seoul
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
+
+</center> 
 <!--
 **Insung-J/Insung-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
