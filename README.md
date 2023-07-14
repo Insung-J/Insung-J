@@ -8,8 +8,6 @@ I'm Insung-J, a developer from Republic of korea
 - 🔭 I’m currently working on Seoul
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&langs_count=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
