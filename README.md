@@ -22,14 +22,6 @@ I'm Insung-J, a developer from Republic of korea
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
-### Welcom **My Space!** 👋👋
-
-Hi there.
-
-I'm Insung-J, a developer from Republic of korea
-- 🔭 I’m currently working on Seoul
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: 634zzx@naver.com
 
 <!--
 **Insung-J/Insung-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
