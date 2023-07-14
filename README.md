@@ -4,6 +4,7 @@
 
 Hi there.
 </center>
+
 I'm Insung-J, a developer from Republic of korea
 - 🔭 I’m currently working on Seoul
 - 🌱 I’m currently learning Python
@@ -25,7 +26,6 @@ I'm Insung-J, a developer from Republic of korea
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
 
-</center> 
 <!--
 **Insung-J/Insung-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
