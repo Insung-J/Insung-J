@@ -9,9 +9,7 @@ I'm Insung-J, a developer from Republic of korea
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
