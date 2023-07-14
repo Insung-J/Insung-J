@@ -9,6 +9,9 @@ I'm Insung-J, a developer from Republic of korea
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insung-J&size_weight=0.5&count_weight=0.5)
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 ### Welcom **My Space!** 👋👋
