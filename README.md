@@ -1,12 +1,16 @@
-### Hi there 👋
-
+### Welcom **My Space!** 👋👋
+Hi there.
+I'm Insung-J, a developer from Republic of korea
+- 🔭 I’m currently working on Seoul
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: 634zzx@naver.com
 <!--
 **Insung-J/Insung-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
