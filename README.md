@@ -9,7 +9,7 @@ I'm Insung-J, a developer from Republic of korea
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
 - 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
