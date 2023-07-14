@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Insung-J%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<div align="center">  hi </div>
+<div align="center">   </div>
 
-<div align="center"> ### Welcom **My Space!** 👋👋 </div>
+ ### Welcome **My Space!** 👋👋
 
 
 Hi there.
@@ -13,7 +13,8 @@ I'm Insung-J, a developer from Republic of korea
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 634zzx@naver.com
 - 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<div align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> </div>
+
 <img src="https://img.shields.io/badge/C-EF5C55?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
